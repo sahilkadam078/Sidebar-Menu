@@ -12,3 +12,8 @@ This project is a practice/demo for creating responsive sidebar layouts.
 - Includes image support
 
 ---
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
